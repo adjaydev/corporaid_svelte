@@ -8,7 +8,7 @@
 		<div class="logos-container" role="presentation">
 			<img class="carousel-logo" src="/logos/rijksoverheid.webp" alt="Rijksoverheid logo" />
 			<img class="carousel-logo" src="/logos/nyerode.webp" alt="Nyenrode logo" />
-			<img class="carousel-logo" src="/logos/dgb.webp" alt="DGB Group logo" />
+			<img class="carousel-logo" src="/logos/logo-tnm.png" alt="DGB Group logo" />
 			<img class="carousel-logo" src="/logos/kroonenberg.webp" alt="Kroonenberg Groep logo" />
 			<img class="carousel-logo" src="/logos/e-flight.webp" alt="E-Flight logo" />
 			<img
@@ -16,7 +16,13 @@
 				src="/logos/rappange.webp"
 				alt="Rappange & Partners Architecten logo"
 			/>
+			<img
+				class="carousel-logo"
+				src="/logos/logo-openbaar-ministerie.png"
+				alt="Openbaar Ministerie"
+			/>
 			<img class="carousel-logo" src="/logos/crop.webp" alt="CROP logo" />
+			<img class="carousel-logo" src="/logos/logo-KNMI.png" alt="KNMI logo" />
 			<img class="carousel-logo" src="/logos/museum-kaart.webp" alt="Museum Kaart logo" />
 			<img class="carousel-logo" src="/logos/museum-vereniging.webp" alt="Museum Vereniging logo" />
 			<img class="carousel-logo" src="/logos/i-love-sushi.webp" alt="I Love Sushi logo" />
